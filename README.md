@@ -17,7 +17,6 @@ name:       Zephyrus
 role:       AI Systems Engineer
 interests:  [LLM Serving & Optimization, High-Performance Computing, Kernel/Operator Dev]
 currently:  Making large models run faster — from custom kernels to serving systems
-motto:      "Make the machine think faster, so humans can think deeper."
 ```
 
 <div align="center">
