@@ -45,17 +45,6 @@ connect:    pzsacc@163.com || pzsearching@gmail.com
   <img width="520" src="https://streak-stats.demolab.com?user=Zephyrus&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=666666" />
 </div>
 
-<!--
-  想要更多 Stats 卡片（如 Star 数、语言占比、Repo Pin）？
-  Fork https://github.com/anuraghazra/github-readme-stats
-  → Vercel 一键部署（免费）→ 取消下面的注释并替换 YOUR_STATS_HOST
-
-<div align="center">
-  <img height="170" src="https://YOUR_STATS_HOST/api?username=Zephyrus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=FF6B6B&text_color=c9d1d9&ring_color=6C63FF" />
-  <img height="170" src="https://YOUR_STATS_HOST/api/top-langs/?username=Zephyrus&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
-</div>
--->
-
 <br/>
 
 <!-- Footer -->
