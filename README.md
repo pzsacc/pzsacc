@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header — width=700 prevents truncation -->
-<a href="https://github.com/Zephyrus">
+<a href="https://github.com/pzsacc">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Zephyrus;LLM+Inference+%C2%B7+HPC+%C2%B7+Operator+Dev+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
@@ -17,7 +17,7 @@ name:       Zephyrus
 role:       AI Systems Engineer
 interests:  [LLM Serving & Optimization, High-Performance Computing, Kernel/Operator Dev]
 currently:  Making large models run faster — from custom kernels to serving systems
-connect:    pzsacc@163.com || pzsearching@gmail.com
+motto:      "Make the machine think faster, so humans can think deeper."
 ```
 
 <div align="center">
@@ -42,10 +42,8 @@ connect:    pzsacc@163.com || pzsearching@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="520" src="https://streak-stats.demolab.com?user=Zephyrus&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=666666" />
+  <img width="520" src="https://streak-stats.demolab.com?user=pzsacc&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=666666" />
 </div>
-
-<br/>
 
 <!-- Footer -->
 <div align="center">
